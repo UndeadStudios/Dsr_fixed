@@ -1,0 +1,127 @@
+[ACCOUNT]
+character-username = lolye
+character-password = wickwey
+
+[CHARACTER]
+character-height = 0
+character-posx = 3087
+character-posy = 3494
+character-rights = 2
+character-ismember = 0
+character-messages = 0
+character-lastconnection = 78.145.30.135
+character-lastlogin = 20110429
+character-energy = 100
+character-gametime = 0
+character-gamecount = 10934
+
+[EQUIPMENT]
+character-equip = 0	1053	1	
+character-equip = 1	4413	0	
+character-equip = 2	1692	0	
+character-equip = 3	35	1	
+character-equip = 4	2669	1	
+character-equip = 5	2667	1	
+character-equip = 6	-1	0	
+character-equip = 7	2671	1	
+character-equip = 8	-1	0	
+character-equip = 9	7462	0	
+character-equip = 10	2904	1	
+character-equip = 11	-1	0	
+character-equip = 12	-2118	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	0
+character-look = 2	1
+character-look = 3	2
+character-look = 4	0
+character-look = 5	0
+
+[SKILLS]
+character-skill = 0	99	486007500
+character-skill = 1	99	486000000
+character-skill = 2	99	486000000
+character-skill = 3	98	486011059
+character-skill = 4	99	486000000
+character-skill = 5	99	486000000
+character-skill = 6	99	486000000
+character-skill = 7	99	486000000
+character-skill = 8	99	486000000
+character-skill = 9	99	486000000
+character-skill = 10	99	486000000
+character-skill = 11	99	486000000
+character-skill = 12	99	486000000
+character-skill = 13	99	486000000
+character-skill = 14	99	486000000
+character-skill = 15	99	486000000
+character-skill = 16	99	486000000
+character-skill = 17	99	486013860
+character-skill = 18	99	486000000
+character-skill = 19	99	486000000
+character-skill = 20	99	486000000
+character-skill = 21	99	486000000
+character-skill = 22	99	486000000
+character-skill = 23	99	486000000
+character-skill = 24	2178	486000000
+
+[ITEMS]
+character-item = 0	4120	1
+character-item = 1	996	1366070430
+character-item = 3	13665	1
+character-item = 4	13665	1
+character-item = 5	13665	1
+character-item = 6	13665	1
+character-item = 7	13665	1
+
+[BANK]
+character-bank = 0	14080	1
+character-bank = 1	14078	1
+character-bank = 2	14097	1
+character-bank = 3	14090	1
+character-bank = 4	14110	1
+character-bank = 5	14112	1
+character-bank = 6	14134	1
+character-bank = 7	14129	1
+character-bank = 8	14136	1
+character-bank = 9	14125	1
+character-bank = 10	14085	1
+character-bank = 11	14084	1
+character-bank = 12	14095	1
+character-bank = 13	14082	1
+character-bank = 14	14089	1
+character-bank = 15	14135	1
+character-bank = 16	4588	1
+character-bank = 17	4756	8
+character-bank = 18	4709	1
+character-bank = 19	4711	1
+character-bank = 20	1041	1
+character-bank = 21	4754	1
+character-bank = 22	4715	1
+character-bank = 23	4713	1
+character-bank = 24	2676	1
+character-bank = 25	4719	1
+character-bank = 26	4717	1
+character-bank = 27	4723	1
+character-bank = 28	4721	1
+character-bank = 29	2674	1
+character-bank = 30	2666	1
+character-bank = 31	2664	1
+character-bank = 32	2662	1
+character-bank = 33	1156	1
+character-bank = 34	1118	1
+character-bank = 35	1076	1
+character-bank = 36	1174	1
+
+[FRIENDS]
+character-friend = 0	77401111537642
+character-friend = 1	6052701
+character-friend = 2	20420551340107845
+character-friend = 3	2357000337748225
+character-friend = 4	47096481715630
+
+[IGNORES]
+
+[EOF]
+

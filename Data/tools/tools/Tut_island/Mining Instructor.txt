@@ -1,0 +1,33 @@
+//Mining instructor
+1. Hi there. You must be new around here. So what do i 
+call you? 'Newcomer" seems so impersonal, and if we're
+going to be working together, i'd rather call you by
+name.
+//You
+2.
+You can call me playerName+.
+//mining istructor
+3.
+Ok then, "playerName+". My name is Dezzick and i'm a
+miner by trade. Let's prospect some of those rocks.
+//You
+4.
+I prospected both types of rock! One set contains tin
+and the other has copper ore inside.
+//mining instructor
+5.
+Absolutly right, playerName+. These two ore types can
+be smelted together to make bronze.
+6.
+So now you Know what ore is in the rocks over there,
+Why don't you have a go at mining some tin and
+copper? Here, You'll need this tho start with.
+//Dezzich Gives you a bronze pickaxe!
+//You
+7.
+How do i make a weapon out of this?
+//mining instructor
+8.
+Okay, Ill show you how to make a dagger out of it.
+You'll be needing this...
+//Dezzick gives you a hammer!

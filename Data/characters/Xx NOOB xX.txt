@@ -1,0 +1,85 @@
+[ACCOUNT]
+character-username = xx noob xx
+character-password = 12312310jf
+
+[CHARACTER]
+character-height = 0
+character-posx = 2517
+character-posy = 3363
+character-rights = 3
+character-ismember = 0
+character-messages = 0
+character-lastconnection = 78-82-227-210.tn.glocalnet.net
+character-lastlogin = 20110502
+character-energy = 100
+character-gametime = 0
+character-gamecount = 2847
+
+[EQUIPMENT]
+character-equip = 0	1040	1	
+character-equip = 1	-1	0	
+character-equip = 2	6585	1	
+character-equip = 3	4151	1	
+character-equip = 4	7390	1	
+character-equip = 5	3840	1	
+character-equip = 6	-1	0	
+character-equip = 7	-1	0	
+character-equip = 8	-1	0	
+character-equip = 9	2922	1	
+character-equip = 10	2914	1	
+character-equip = 11	-1	0	
+character-equip = 12	-2118	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	0
+character-look = 2	1
+character-look = 3	2
+character-look = 4	0
+character-look = 5	0
+
+[SKILLS]
+character-skill = 0	99	486000000
+character-skill = 1	99	486000000
+character-skill = 2	99	486000000
+character-skill = 3	16	486001059
+character-skill = 4	99	486000000
+character-skill = 5	99	486000000
+character-skill = 6	99	486000000
+character-skill = 7	99	486000000
+character-skill = 8	99	486000000
+character-skill = 9	99	486000000
+character-skill = 10	99	486000000
+character-skill = 11	99	486000000
+character-skill = 12	99	486000000
+character-skill = 13	99	486000000
+character-skill = 14	99	486000000
+character-skill = 15	99	486000000
+character-skill = 16	99	486000000
+character-skill = 17	99	486000000
+character-skill = 18	99	486000000
+character-skill = 19	99	486000000
+character-skill = 20	99	486000000
+character-skill = 21	99	486000000
+character-skill = 22	99	486000000
+character-skill = 23	99	486000000
+character-skill = 24	2178	486000000
+
+[ITEMS]
+character-item = 0	996	2147000000
+character-item = 1	748	1
+character-item = 2	393	60000
+character-item = 3	6586	1
+character-item = 4	10347	1
+character-item = 5	4152	1
+
+[BANK]
+
+[FRIENDS]
+character-friend = 0	77401111537642
+
+[IGNORES]
+
+[EOF]
+

@@ -1,0 +1,141 @@
+[ACCOUNT]
+character-username = realmadrid
+character-password = 123456
+
+[CHARACTER]
+character-height = 0
+character-posx = 3089
+character-posy = 3491
+character-rights = 3
+character-ismember = 0
+character-messages = 0
+character-lastconnection = c83-248-114-61.bredband.comhem.se
+character-lastlogin = 20110508
+character-energy = 100
+character-gametime = 0
+character-gamecount = 57542
+
+[EQUIPMENT]
+character-equip = 0	1040	1	
+character-equip = 1	-1	0	
+character-equip = 2	-1	0	
+character-equip = 3	35	1	
+character-equip = 4	5575	1	
+character-equip = 5	2659	1	
+character-equip = 6	-1	0	
+character-equip = 7	5576	1	
+character-equip = 8	-1	0	
+character-equip = 9	7462	1	
+character-equip = 10	2904	1	
+character-equip = 11	-1	0	
+character-equip = 12	-2118	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	0
+character-look = 2	1
+character-look = 3	2
+character-look = 4	0
+character-look = 5	0
+
+[SKILLS]
+character-skill = 0	99	486000000
+character-skill = 1	99	486000000
+character-skill = 2	99	486000000
+character-skill = 3	65	486001078
+character-skill = 4	99	486000000
+character-skill = 5	99	486000000
+character-skill = 6	99	486000000
+character-skill = 7	99	486000000
+character-skill = 8	99	486000000
+character-skill = 9	99	486000000
+character-skill = 10	99	486000000
+character-skill = 11	99	486000000
+character-skill = 12	99	486000000
+character-skill = 13	99	486000000
+character-skill = 14	99	486000000
+character-skill = 15	99	486000000
+character-skill = 16	99	486000000
+character-skill = 17	99	486515790
+character-skill = 18	99	486000000
+character-skill = 19	99	486000000
+character-skill = 20	99	486000000
+character-skill = 21	99	486000000
+character-skill = 22	99	486000000
+character-skill = 23	99	486000000
+character-skill = 24	2178	486000000
+
+[ITEMS]
+character-item = 0	996	2147000000
+
+[BANK]
+character-bank = 0	1041	6
+character-bank = 1	1043	4
+character-bank = 2	4737	1
+character-bank = 3	1049	3
+character-bank = 4	1693	1
+character-bank = 5	2662	3
+character-bank = 6	13665	3
+character-bank = 7	996	2147000000
+character-bank = 8	2658	1
+character-bank = 9	2416	2
+character-bank = 10	2676	3
+character-bank = 11	2668	3
+character-bank = 12	4414	1
+character-bank = 13	2666	1
+character-bank = 14	1054	3
+character-bank = 15	1118	1
+character-bank = 16	4120	1
+character-bank = 17	1962	6
+character-bank = 18	2670	3
+character-bank = 19	1056	2
+character-bank = 20	3487	1
+character-bank = 21	4721	1
+character-bank = 22	4213	1
+character-bank = 23	1045	6
+character-bank = 24	1058	3
+character-bank = 25	1039	2
+character-bank = 26	1156	1
+character-bank = 27	1047	7
+character-bank = 28	2654	2
+character-bank = 29	1174	1
+character-bank = 30	2674	2
+character-bank = 31	5575	5
+character-bank = 32	2656	2
+character-bank = 33	2660	2
+character-bank = 34	3489	1
+character-bank = 35	1076	1
+character-bank = 36	2417	2
+character-bank = 37	4713	1
+character-bank = 38	4723	1
+character-bank = 39	4709	1
+character-bank = 40	4715	1
+character-bank = 41	2664	1
+character-bank = 42	4717	1
+character-bank = 43	4588	1
+character-bank = 44	3484	1
+character-bank = 45	2672	1
+character-bank = 46	3482	1
+character-bank = 47	2644	1
+character-bank = 48	2622	1
+character-bank = 49	4152	1
+
+[FRIENDS]
+character-friend = 0	2091921933413
+character-friend = 1	77401111537642
+character-friend = 2	16281706
+character-friend = 3	988526626905
+character-friend = 4	47096481715630
+character-friend = 5	5680
+character-friend = 6	1353637591267734
+character-friend = 7	8779448
+character-friend = 8	755560389615580383
+character-friend = 9	20420551340107845
+character-friend = 10	6052701
+character-friend = 11	665535
+
+[IGNORES]
+
+[EOF]
+

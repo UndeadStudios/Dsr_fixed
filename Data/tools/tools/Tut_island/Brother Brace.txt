@@ -1,0 +1,54 @@
+//You
+1.
+Good day, brother, my name's "Playername+"
+//Brother Brace
+2.
+Hello, Playername+. I'm Brother Brace. I'm here to tell
+you all about prayer.
+3.
+This is you prayer list. Prayers can help a lot in
+combat. Click on the prayer you wish to use to activate 
+it, and click it again to deactivate it.
+4.
+Active Prayers will drain your prayer points, which
+you can recharge by finding and altar or other holy spot
+and praying there.
+5.
+As you noticed, mod enemies will drop bones when
+defeated. Burying bones, by clicking on them in your
+inventory, will gain you Prayer experience.
+6.
+I'm also the community officer 'round here, so it's my
+job to tell you about your friends and ignore list.
+7.
+Good. now you have both menus open i'll tell you a
+little about each. You can add people to either list by
+clicking the add button then typing their name into the
+box that appears.
+8.
+You remove people from the lists in the same way. If
+you add someone to your ignore list they will not be
+able to talk to you or send any form of message to 
+you.
+9.
+Your friends list shows the online status of your
+friends. Friends in red are offline, friends in green are
+online and on the same server and friends in yellow
+are online, but on a different server.
+//You
+Are there rules on in-game behaviour?
+//Brother Brace
+10.
+Yes, you should read the rules of conduct on the
+website to make sure you do nothing to get yourself
+banned.
+11.
+But in general, always try to be courteous to other
+players - remember the people in the game are real
+people with real feelings.
+12.
+If you go 'round being abusive or causing trouble your
+charactor could end up being the one in trouble.
+//You
+13.
+Okay. thanks, I'll bear that in mind.

@@ -1,0 +1,18 @@
+//Master Chef
+1.
+Ah! Welcome, newcomer. I am the Master Chef, Lev. It
+is here I will teach yu how to cook food truly fit for a
+king.
+//You
+2.I already know how to cook. Brynna taught me just
+now.
+//Master Chef
+3.
+Hahahahahaha! You call THAT cooking? Some shrimp
+on an open log fire? oh, no, no, no. I am going to 
+teach you the fine art of cooking bread.
+4.
+And no fine meal is complete without good music, so
+we'll cover that while you're here too.
+//The cooking guide gives you a bucket of water and a
+//pot of flour!

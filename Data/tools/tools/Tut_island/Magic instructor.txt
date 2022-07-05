@@ -1,0 +1,34 @@
+//You
+1.
+Hello.
+//Magic instructor
+2.
+Good day, newcomer. My name is Terrova. I'm here
+to tell you about magic. Let's start by opening your
+spell list.
+3.
+Good. This is a list of your spells. Currently you can 
+only cast one offensive spell called wind strike. Lest's
+try it out on one of those chickens.
+//Terreova gives you five air runes anf ive mind runes!
+//Magic Instructor
+4.
+Well your all finished here noe. Ill give you a 
+reasonable number of runes when you leave.
+//Do you want to go to the main land
+//Yes. (Teles you to lummy)
+//No. (Deletes all frames)
+5.
+When you get to the mainland you will find yourself in
+the town of lumbridge. If you want some ideas on
+where to go next, talk to my friend the lumbridge 
+Guide. You can't miss him; he's holding a big staff with
+6.
+A question mark on the end. He also has a white beard
+and carries a rucksack full of scrolls. There are also
+many tutors willing to teach you about the many skills
+you could learn.
+7.
+If all else fails, visit the runescape website for a whole
+chestload of information on quests, skills and minigames
+as well as a very good starter's guide.

@@ -1,0 +1,30 @@
+//You
+1.
+Hi my name's playerName+.
+//Combat Instructor
+2.
+Do i look like i care? To me you're just another
+newcomer who thinks they're ready to fight.
+3.
+I am Vannaka, the greatest swordsman alive.
+4.
+Let's get started by teaching you to weild a weapon.
+5.
+Very good, but that little butter knife isn't going to
+protect you much. Here, take these.
+//The Combat Guide gives you a wooden sheild.
+//You
+6.
+I did it! I killed a giant rat!
+//Combat Instructor
+7.
+I saw, playerName+. You seem better at this than i 
+though. Now that you have grasped basic swordplay,
+Lets move on.
+8.
+Let's try some ranged attacking, with this you can kill
+foes from a distance. Also, foes unable to reach you are
+as good as dead. You'll be able to attack the rats
+without entering the pit.
+//The combat Guide Gives you some bronze arrows and
+a shortbow!

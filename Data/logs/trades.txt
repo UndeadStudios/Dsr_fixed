@@ -1,0 +1,826 @@
+mib0421 trades item: 3842 amount: 1 with mod jonathan
+mib0421 trades item: 14860 amount: 1 with mod jonathan
+mib0421 trades item: 6585 amount: 1 with mod jonathan
+mib0421 trades item: 15350 amount: 1 with mod jonathan
+mib0421 trades item: 7462 amount: 1 with mod jonathan
+mib0421 trades item: 15349 amount: 1 with mod jonathan
+mib0421 trades item: 15348 amount: 1 with mod jonathan
+mib0421 trades item: 6108 amount: 1 with mod jonathan
+mib0421 trades item: 14122 amount: 1 with mod jonathan
+mib0421 trades item: 10106 amount: 1 with mod jonathan
+mib0421 trades item: 15352 amount: 1 with mod jonathan
+mod jonathan trades item: 5698 amount: 1 with kiashi2
+mod jonathan trades item: 4587 amount: 1 with kiashi2
+mod jonathan trades item: 15195 amount: 1 with kiashi2
+mod jonathan trades item: 4151 amount: 1 with kiashi2
+mod jonathan trades item: 3140 amount: 1 with kiashi2
+mod jonathan trades item: 4087 amount: 1 with kiashi2
+mod jonathan trades item: 1187 amount: 1 with kiashi2
+mod jonathan trades item: 1725 amount: 1 with kiashi2
+mod jonathan trades item: 7462 amount: 1 with kiashi2
+mod jonathan trades item: 14114 amount: 1 with kiashi2
+mod jonathan trades item: 14113 amount: 1 with kiashi2
+mod jonathan trades item: 15352 amount: 1 with kiashi2
+mod jonathan trades item: 15352 amount: 1 with kiashi2
+mod jonathan trades item: 7462 amount: 1 with kiashi2
+mod jonathan trades item: 1187 amount: 1 with kiashi2
+mod jonathan trades item: 4151 amount: 1 with kiashi2
+mod jonathan trades item: 3140 amount: 1 with kiashi2
+mod jonathan trades item: 4087 amount: 1 with kiashi2
+mod jonathan trades item: 14073 amount: 1 with kiashi2
+mod jonathan trades item: 7462 amount: 1 with kiashi2
+mod jonathan trades item: 14114 amount: 1 with kiashi2
+mod jonathan trades item: 1725 amount: 1 with kiashi2
+mod jonathan trades item: 14113 amount: 1 with kiashi2
+mod jonathan trades item: 1187 amount: 1 with kiashi2
+mod jonathan trades item: 4087 amount: 1 with kiashi2
+mod jonathan trades item: 14114 amount: 1 with kiashi2
+mod jonathan trades item: 1725 amount: 1 with kiashi2
+mod jonathan trades item: 15336 amount: 1 with kiashi2
+mod jonathan trades item: 15352 amount: 1 with kiashi2
+mod jonathan trades item: 995 amount: 1 with kiashi2
+mod jonathan trades item: 3140 amount: 1 with kiashi2
+mod jonathan trades item: 7462 amount: 1 with kiashi2
+mod jonathan trades item: 14113 amount: 1 with kiashi2
+mod jonathan trades item: 392 amount: 4540000 with kiashi2
+mod death trades item: 15352 amount: 1 with jessewhitley
+mod death trades item: 3842 amount: 1 with jessewhitley
+mod death trades item: 6108 amount: 1 with jessewhitley
+mod death trades item: 6107 amount: 1 with jessewhitley
+mod death trades item: 6918 amount: 1 with jessewhitley
+mod death trades item: 7462 amount: 1 with jessewhitley
+mod death trades item: 2414 amount: 1 with jessewhitley
+mod death trades item: 4587 amount: 1 with jessewhitley
+mod death trades item: 6585 amount: 1 with jessewhitley
+mod death trades item: 3842 amount: 1 with jessewhitley
+mod death trades item: 13592 amount: 1 with jesse
+mod icer trades item: 14074 amount: 1 with mod death
+mod icer trades item: 15000 amount: 1 with mod death
+mod icer trades item: 15348 amount: 1 with mod death
+mod icer trades item: 15349 amount: 1 with mod death
+mod icer trades item: 15350 amount: 1 with mod death
+mod death trades item: 6918 amount: 1 with mod icer
+mod death trades item: 3230 amount: 1 with mod icer
+mod death trades item: 4513 amount: 1 with mod icer
+mod death trades item: 7462 amount: 1 with mod icer
+mod death trades item: 4514 amount: 1 with mod icer
+wmj23 trades item: 995 amount: 1000000000 with jda91
+wmj23 trades item: 995 amount: 2147000000 with jda91
+mod josh trades item: 773 amount: 1 with chosen one
+wmj23 trades item: 747 amount: 1 with thanoob3
+wmj23 trades item: 6570 amount: 1 with mod death
+wmj23 trades item: 1053 amount: 1 with mod death
+wmj23 trades item: 1704 amount: 1 with mod death
+wmj23 trades item: 1050 amount: 1 with mod death
+wmj23 trades item: 775 amount: 1 with mod death
+wmj23 trades item: 747 amount: 1 with mod death
+wmj23 trades item: 1052 amount: 1 with mod death
+wmj23 trades item: 7668 amount: 1 with mod death
+wmj23 trades item: 4712 amount: 1 with mod death
+wmj23 trades item: 6524 amount: 1 with mod death
+wmj23 trades item: 15352 amount: 1 with mod death
+wmj23 trades item: 4151 amount: 1 with mod death
+wmj23 trades item: 4717 amount: 999 with mod death
+WMJ23 trades item: 6570 amount: 1 with GOEATATWINKI
+shelly trades item: 995 amount: 100000000 with jordan
+shelly trades item: 995 amount: 100000000 with xpure
+shelly trades item: 995 amount: 100000000 with cookies
+shelly trades item: 995 amount: 100000000 with waffles
+shelly trades item: 995 amount: 100000000 with fatalpker99
+shelly trades item: 995 amount: 1647210000 with justin
+shelly trades item: 995 amount: 250000000 with year1
+mod death trades item: 747 amount: 1 with justin
+mod death trades item: 1050 amount: 1 with justin
+mod death trades item: 1053 amount: 1 with justin
+shelly trades item: 1050 amount: 1 with thanoob3
+shelly trades item: 995 amount: 100000000 with billbogod
+mod death trades item: 7668 amount: 1 with thanoob3
+mod death trades item: 747 amount: 1 with compl3x
+atokad17 trades item: 14074 amount: 1 with mod death
+mod death trades item: 2631 amount: 1 with atokad17
+goeatatwinki trades item: 1053 amount: 1 with atokad17
+goeatatwinki trades item: 747 amount: 1 with devin
+goeatatwinki trades item: 995 amount: 1000000 with atokad17
+atokad17 trades item: 391 amount: 1 with goeatatwinki
+atokad17 trades item: 391 amount: 1 with goeatatwinki
+atokad17 trades item: 391 amount: 1 with goeatatwinki
+atokad17 trades item: 391 amount: 1 with goeatatwinki
+atokad17 trades item: 391 amount: 1 with goeatatwinki
+goeatatwinki trades item: 4708 amount: 1 with atokad17
+goeatatwinki trades item: 4710 amount: 1 with atokad17
+goeatatwinki trades item: 4714 amount: 1 with atokad17
+goeatatwinki trades item: 4712 amount: 1 with atokad17
+goeatatwinki trades item: 6585 amount: 1 with mod matt
+goeatatwinki trades item: 7462 amount: 1 with mod matt
+goeatatwinki trades item: 3842 amount: 1 with mod matt
+mod death trades item: 2644 amount: 4 with devin
+devin trades item: 391 amount: 1 with mod death
+devin trades item: 391 amount: 1 with mod death
+thanoob3 trades item: 995 amount: 2147000000 with swager
+thanoob3 trades item: 995 amount: 2147000000 with partyhat4
+matts awsome trades item: 995 amount: 2147000000 with papi7613
+matts awsome trades item: 1127 amount: 1 with papi7613
+matts awsome trades item: 2671 amount: 1 with papi7613
+matts awsome trades item: 2671 amount: 1 with papi7613
+matts awsome trades item: 1334 amount: 1 with papi7613
+goeatatwinki trades item: 1837 amount: 1 with matts awsome
+mod death trades item: 995 amount: 2123769978 with gf nighas
+brian trades item: 995 amount: 2147000000 with gotnoob
+brian trades item: 1038 amount: 1 with gotnoob
+mod death trades item: 995 amount: 2147000000 with joni78
+mod death trades item: 15054 amount: 1 with joni78
+grant 207 trades item: 995 amount: 2147000000 with joni78
+grant 207 trades item: 995 amount: 2146999982 with rezet
+grant 207 trades item: 6570 amount: 1 with rezet
+grant 207 trades item: 995 amount: 2147000000 with Legit
+Legit trades item: 995 amount: 9575807 with grant 207
+mod death trades item: 7671 amount: 1 with itamar800
+grant 207 trades item: 4151 amount: 1 with legit
+mod death trades item: 3271 amount: 1 with jbombpwnu
+mod death trades item: 774 amount: 1 with wmj23
+mod death trades item: 773 amount: 1 with wmj23
+wmj23 trades item: 2661 amount: 1 with xx wm23 xx
+goeatatwinki trades item: 747 amount: 1 with killer rex29
+mod death trades item: 1048 amount: 1 with ill ko you
+mod death trades item: 4084 amount: 1 with ill ko you
+mod death trades item: 1057 amount: 1 with ill ko you
+mod death trades item: 1053 amount: 1 with ill ko you
+mod death trades item: 1055 amount: 1 with ill ko you
+mod death trades item: 962 amount: 1 with ill ko you
+mod death trades item: 1050 amount: 1 with ill ko you
+mod death trades item: 6570 amount: 1 with ill ko you
+mod death trades item: 995 amount: 2144376940 with ill ko you
+ill ko you trades item: 995 amount: 2147000000 with test2
+test2 trades item: 995 amount: 2147000000 with ill ko you
+mod death trades item: 1037 amount: 1 with crystal
+mod death trades item: 1042 amount: 1 with crystal
+mod death trades item: 1055 amount: 1 with crystal
+mod death trades item: 1048 amount: 1 with crystal
+mod death trades item: 1037 amount: 1 with crystal
+mod death trades item: 1040 amount: 1 with crystal
+mod death trades item: 962 amount: 1 with crystal
+mod death trades item: 747 amount: 1 with crystal
+mod death trades item: 6541 amount: 1 with crystal
+mod death trades item: 995 amount: 2147000000 with seagod6
+mod death trades item: 9004 amount: 1 with chris
+mod death trades item: 9004 amount: 1 with mod wmj
+chris trades item: 9004 amount: 1 with oxshadowking
+chris trades item: 9004 amount: 1 with chr1s
+mod death trades item: 1040 amount: 1 with icannon6
+mod death trades item: 1040 amount: 1 with afk
+mod death trades item: 1837 amount: 1 with afk
+mod death trades item: 2914 amount: 1 with afk
+mod death trades item: 2922 amount: 1 with afk
+mod death trades item: 3840 amount: 1 with afk
+mod death trades item: 6585 amount: 1 with afk
+mod death trades item: 2361 amount: 1 with afk
+mod death trades item: 4712 amount: 1 with afk
+mod death trades item: 385 amount: 1 with afk
+mod death trades item: 6524 amount: 1 with afk
+mod death trades item: 1704 amount: 1 with afk
+mod death trades item: 4151 amount: 1 with afk
+mod death trades item: 1052 amount: 1 with afk
+mod death trades item: 4708 amount: 1 with afk
+mod death trades item: 4714 amount: 1 with afk
+mod death trades item: 1037 amount: 1 with afk
+afk trades item: 995 amount: 30034811 with Gdog
+afk trades item: 1048 amount: 1 with hotshot11065
+mod death trades item: 1039 amount: 1 with hotshot11065
+mod death trades item: 1041 amount: 1 with hotshot11065
+mod death trades item: 1043 amount: 1 with hotshot11065
+mod death trades item: 1045 amount: 1 with hotshot11065
+mod death trades item: 1047 amount: 1 with hotshot11065
+mod death trades item: 1049 amount: 1 with hotshot11065
+mod death trades item: 1051 amount: 1 with hotshot11065
+mod death trades item: 1054 amount: 1 with hotshot11065
+mod death trades item: 1058 amount: 1 with hotshot11065
+mod death trades item: 1056 amount: 1 with hotshot11065
+mod death trades item: 963 amount: 1 with hotshot11065
+mod death trades item: 4717 amount: 1 with hotshot11065
+mod death trades item: 4719 amount: 1 with hotshot11065
+mod death trades item: 4721 amount: 1 with hotshot11065
+mod death trades item: 4723 amount: 1 with hotshot11065
+mod death trades item: 4709 amount: 1 with hotshot11065
+mod death trades item: 4711 amount: 1 with hotshot11065
+mod death trades item: 4713 amount: 1 with hotshot11065
+mod death trades item: 4715 amount: 1 with hotshot11065
+mod death trades item: 4754 amount: 1 with hotshot11065
+mod death trades item: 4756 amount: 1 with hotshot11065
+mod death trades item: 4758 amount: 1 with hotshot11065
+mod death trades item: 4760 amount: 1 with hotshot11065
+mod death trades item: 4746 amount: 1 with hotshot11065
+mod death trades item: 4748 amount: 1 with hotshot11065
+mod death trades item: 4750 amount: 1 with hotshot11065
+mod death trades item: 4752 amount: 1 with hotshot11065
+mod death trades item: 4733 amount: 1 with hotshot11065
+mod death trades item: 4735 amount: 1 with hotshot11065
+mod death trades item: 4737 amount: 1 with hotshot11065
+mod death trades item: 4739 amount: 1 with hotshot11065
+mod death trades item: 4727 amount: 1 with hotshot11065
+mod death trades item: 4729 amount: 1 with hotshot11065
+mod death trades item: 4731 amount: 1 with hotshot11065
+mod death trades item: 4725 amount: 1 with hotshot11065
+mod death trades item: 4717 amount: 2999 with afk
+mod death trades item: 4719 amount: 2999 with afk
+mod death trades item: 4721 amount: 2999 with afk
+mod death trades item: 4723 amount: 2999 with afk
+mod death trades item: 4709 amount: 2999 with afk
+mod death trades item: 4711 amount: 2999 with afk
+mod death trades item: 4713 amount: 2999 with afk
+mod death trades item: 4715 amount: 2999 with afk
+mod death trades item: 4754 amount: 2999 with afk
+mod death trades item: 4756 amount: 2999 with afk
+mod death trades item: 4758 amount: 2999 with afk
+mod death trades item: 4760 amount: 2999 with afk
+mod death trades item: 4746 amount: 2999 with afk
+mod death trades item: 4748 amount: 2999 with afk
+mod death trades item: 4750 amount: 2999 with afk
+mod death trades item: 4752 amount: 2999 with afk
+mod death trades item: 4733 amount: 2999 with afk
+mod death trades item: 4735 amount: 2999 with afk
+mod death trades item: 4737 amount: 2999 with afk
+mod death trades item: 4739 amount: 2999 with afk
+mod death trades item: 4727 amount: 2999 with afk
+mod death trades item: 4729 amount: 2999 with afk
+mod death trades item: 4731 amount: 2999 with afk
+mod death trades item: 4725 amount: 2999 with afk
+afk trades item: 995 amount: 797000000 with Element
+mod death trades item: 2643 amount: 1 with mod wmj
+mod death trades item: 2643 amount: 1 with lifeless
+mod death trades item: 2997 amount: 1 with mod wmj
+mod death trades item: 1050 amount: 1 with sir shayne67
+mod wmj trades item: 391 amount: 1 with mod death
+mod wmj trades item: 391 amount: 1 with mod death
+mod wmj trades item: 391 amount: 1 with mod death
+mod death trades item: 1077 amount: 1 with mod wmj
+mod death trades item: 1107 amount: 1 with mod wmj
+mod death trades item: 2643 amount: 1 with mod wmj
+mod death trades item: 1039 amount: 1 with Safwan
+mod death trades item: 1041 amount: 1 with Safwan
+mod death trades item: 1043 amount: 1 with Safwan
+mod death trades item: 1045 amount: 1 with Safwan
+mod death trades item: 1047 amount: 1 with Safwan
+mod death trades item: 1049 amount: 1 with Safwan
+mod death trades item: 1051 amount: 1 with Safwan
+mod death trades item: 1054 amount: 1 with Safwan
+mod death trades item: 1058 amount: 1 with Safwan
+mod death trades item: 1056 amount: 1 with Safwan
+mod death trades item: 963 amount: 1 with Safwan
+mod death trades item: 1039 amount: 1 with Blue
+mod death trades item: 1041 amount: 1 with Blue
+mod death trades item: 1043 amount: 1 with Blue
+mod death trades item: 1045 amount: 1 with Blue
+mod death trades item: 1047 amount: 1 with Blue
+mod death trades item: 1049 amount: 1 with Blue
+mod death trades item: 1051 amount: 1 with Blue
+mod death trades item: 1054 amount: 1 with Blue
+mod death trades item: 1058 amount: 1 with Blue
+mod death trades item: 1056 amount: 1 with Blue
+mod death trades item: 963 amount: 1 with Blue
+mod death trades item: 1039 amount: 1 with pinkxphoenix
+mod death trades item: 1041 amount: 1 with pinkxphoenix
+mod death trades item: 1043 amount: 1 with pinkxphoenix
+mod death trades item: 1045 amount: 1 with pinkxphoenix
+mod death trades item: 1047 amount: 1 with pinkxphoenix
+mod death trades item: 1049 amount: 1 with pinkxphoenix
+mod death trades item: 1051 amount: 1 with pinkxphoenix
+mod death trades item: 1054 amount: 1 with pinkxphoenix
+mod death trades item: 1058 amount: 1 with pinkxphoenix
+mod death trades item: 1056 amount: 1 with pinkxphoenix
+mod death trades item: 963 amount: 1 with pinkxphoenix
+mod wmj trades item: 995 amount: 2147000000 with pinkxphoenix
+mod wmj trades item: 6570 amount: 1 with pinkxphoenix
+mod wmj trades item: 1285 amount: 1 with pinkxphoenix
+mod wmj trades item: 1055 amount: 1 with pinkxphoenix
+Jessewhitley trades item: 6570 amount: 1 with Pinkxphoenix
+Jessewhitley trades item: 1285 amount: 1 with Pinkxphoenix
+Jessewhitley trades item: 364 amount: 1 with Pinkxphoenix
+Jessewhitley trades item: 6082 amount: 1 with Pinkxphoenix
+Jessewhitley trades item: 1055 amount: 1 with Pinkxphoenix
+Jessewhitley trades item: 1917 amount: 1 with Pinkxphoenix
+Jessewhitley trades item: 776 amount: 1 with Pinkxphoenix
+mod death trades item: 1039 amount: 1 with hitchdawgg
+mod death trades item: 1041 amount: 1 with hitchdawgg
+mod death trades item: 1043 amount: 1 with hitchdawgg
+mod death trades item: 1045 amount: 1 with hitchdawgg
+mod death trades item: 1047 amount: 1 with hitchdawgg
+mod death trades item: 1049 amount: 1 with hitchdawgg
+mod death trades item: 1051 amount: 1 with hitchdawgg
+mod death trades item: 1054 amount: 1 with hitchdawgg
+mod death trades item: 1058 amount: 1 with hitchdawgg
+mod death trades item: 1056 amount: 1 with hitchdawgg
+mod death trades item: 963 amount: 1 with hitchdawgg
+mod death trades item: 1331 amount: 1 with dylan
+mod death trades item: 6611 amount: 1 with dylan
+mod death trades item: 1325 amount: 1 with dylan
+mod death trades item: 1333 amount: 1 with dylan
+mod death trades item: 1329 amount: 1 with dylan
+mod death trades item: 1321 amount: 1 with dylan
+mod death trades item: 1327 amount: 1 with dylan
+mod death trades item: 4587 amount: 1 with dylan
+mod death trades item: 1323 amount: 1 with dylan
+valle1212 trades item: 35 amount: 1 with regrettions
+valle1212 trades item: 35 amount: 1 with hyped
+valle1212 trades item: 995 amount: 2147000000 with Shadow
+valle1212 trades item: 4712 amount: 1 with Shadow
+valle1212 trades item: 4714 amount: 1 with Shadow
+valle1212 trades item: 4708 amount: 1 with Shadow
+valle1212 trades item: 1052 amount: 1 with Shadow
+valle1212 trades item: 1837 amount: 1 with Shadow
+valle1212 trades item: 775 amount: 1 with Shadow
+valle1212 trades item: 1704 amount: 1 with Shadow
+valle1212 trades item: 6524 amount: 1 with Shadow
+valle1212 trades item: 385 amount: 1 with Shadow
+valle1212 trades item: 35 amount: 1 with didzovriddz
+valle1212 trades item: 35 amount: 1 with Shadow
+didzovriddz trades item: 2655 amount: 1 with Shadow
+didzovriddz trades item: 2659 amount: 1 with Shadow
+Shadow trades item: 1040 amount: 1 with didzovriddz
+valle1212 trades item: 1038 amount: 1 with Shadow
+valle1212 trades item: 3481 amount: 1 with Shadow
+valle1212 trades item: 3488 amount: 1 with Shadow
+valle1212 trades item: 3486 amount: 1 with Shadow
+valle1212 trades item: 3483 amount: 1 with Shadow
+Shadow trades item: 995 amount: 69512430 with rage
+valle1212 trades item: 995 amount: 2147000000 with rage
+valle1212 trades item: 35 amount: 1 with rage
+valle1212 trades item: 35 amount: 1 with firetruck
+valle1212 trades item: 995 amount: 2147000000 with firetruck
+valle1212 trades item: 995 amount: 2147000000 with lizzy
+valle1212 trades item: 35 amount: 1 with lizzy
+valle1212 trades item: 35 amount: 1 with Manager Meep
+valle1212 trades item: 995 amount: 2147000000 with Manager Meep
+valle1212 trades item: 995 amount: 2147000000 with i sm0ke kush
+valle1212 trades item: 35 amount: 1 with i sm0ke kush
+i sm0ke kush trades item: 995 amount: 240000 with valle1212
+valle1212 trades item: 35 amount: 1 with drew
+valle1212 trades item: 995 amount: 2147000000 with drew
+valle1212 trades item: 35 amount: 1 with masterborn12
+valle1212 trades item: 995 amount: 2147000000 with masterborn12
+Shadow trades item: 1050 amount: 1 with clark
+Shadow trades item: 995 amount: 90333080 with clark
+Shadow trades item: 1285 amount: 1 with clark
+valle1212 trades item: 995 amount: 2147000000 with JACK
+valle1212 trades item: 35 amount: 1 with JACK
+valle1212 trades item: 995 amount: 2147000000 with rebornkiller
+valle1212 trades item: 35 amount: 1 with rebornkiller
+valle1212 trades item: 995 amount: 2147000000 with Kyle
+valle1212 trades item: 35 amount: 1 with Kyle
+valle1212 trades item: 995 amount: 2147000000 with killme450
+valle1212 trades item: 35 amount: 1 with killme450
+killme450 trades item: 995 amount: 10000000 with valle1212
+valle1212 trades item: 995 amount: 2147000000 with austin
+valle1212 trades item: 35 amount: 1 with austin
+valle1212 trades item: 3487 amount: 1 with Kyle
+valle1212 trades item: 3484 amount: 1 with Kyle
+valle1212 trades item: 3482 amount: 1 with Kyle
+valle1212 trades item: 3489 amount: 1 with Kyle
+valle1212 trades item: 3487 amount: 1 with killme450
+valle1212 trades item: 3484 amount: 1 with killme450
+valle1212 trades item: 3482 amount: 1 with killme450
+valle1212 trades item: 3489 amount: 1 with killme450
+valle1212 trades item: 995 amount: 2147000000 with hitchdawgg
+valle1212 trades item: 35 amount: 1 with hitchdawgg
+valle1212 trades item: 995 amount: 2147000000 with yosef
+valle1212 trades item: 35 amount: 1 with yosef
+valle1212 trades item: 3486 amount: 1 with didzovriddz
+valle1212 trades item: 3488 amount: 1 with didzovriddz
+valle1212 trades item: 3481 amount: 1 with didzovriddz
+valle1212 trades item: 3483 amount: 1 with didzovriddz
+valle1212 trades item: 995 amount: 2147000000 with didzovriddz
+valle1212 trades item: 995 amount: 2147000000 with melee
+valle1212 trades item: 35 amount: 1 with melee
+valle1212 trades item: 995 amount: 2147000000 with piecakez ftw
+valle1212 trades item: 35 amount: 1 with piecakez ftw
+pinkxphoenix trades item: 6633 amount: 1 with valle1212
+pinkxphoenix trades item: 6617 amount: 1 with valle1212
+pinkxphoenix trades item: 6625 amount: 1 with valle1212
+pinkxphoenix trades item: 1837 amount: 1 with valle1212
+pinkxphoenix trades item: 1037 amount: 1 with valle1212
+pinkxphoenix trades item: 2740 amount: 1 with valle1212
+pinkxphoenix trades item: 1048 amount: 1 with valle1212
+pinkxphoenix trades item: 995 amount: 500000000 with melee
+Shadow trades item: 6199 amount: 1 with valle1212
+valle1212 trades item: 995 amount: 2147000000 with melee
+mod wmj trades item: 4714 amount: 1 with pinkxphoenix
+mod wmj trades item: 4708 amount: 1 with pinkxphoenix
+mod wmj trades item: 5555 amount: 1 with pinkxphoenix
+mod wmj trades item: 5553 amount: 1 with pinkxphoenix
+mod wmj trades item: 5557 amount: 1 with pinkxphoenix
+mod wmj trades item: 5556 amount: 1 with pinkxphoenix
+mod wmj trades item: 5554 amount: 1 with pinkxphoenix
+mod wmj trades item: 2589 amount: 1 with pinkxphoenix
+mod wmj trades item: 1107 amount: 1 with pinkxphoenix
+valle1212 trades item: 1837 amount: 1 with Shadow
+valle1212 trades item: 1044 amount: 1 with Shadow
+valle1212 trades item: 6859 amount: 1 with Shadow
+valle1212 trades item: 2659 amount: 1 with Shadow
+valle1212 trades item: 3488 amount: 1 with Shadow
+valle1212 trades item: 2922 amount: 1 with Shadow
+valle1212 trades item: 995 amount: 150045000 with Shadow
+valle1212 trades item: 2675 amount: 1 with Shadow
+valle1212 trades item: 6570 amount: 1 with Shadow
+valle1212 trades item: 3483 amount: 1 with Shadow
+valle1212 trades item: 1046 amount: 1 with Shadow
+valle1212 trades item: 1040 amount: 1 with Shadow
+valle1212 trades item: 3481 amount: 1 with Shadow
+valle1212 trades item: 2669 amount: 1 with Shadow
+valle1212 trades item: 2655 amount: 1 with Shadow
+valle1212 trades item: 892 amount: 10000 with Shadow
+valle1212 trades item: 391 amount: 1 with Shadow
+valle1212 trades item: 1837 amount: 1 with Shadow
+valle1212 trades item: 1046 amount: 1 with Shadow
+valle1212 trades item: 391 amount: 1 with Shadow
+valle1212 trades item: 5698 amount: 1 with Shadow
+valle1212 trades item: 175 amount: 1 with Shadow
+valle1212 trades item: 179 amount: 1 with Shadow
+mod death trades item: 1039 amount: 1 with otato
+mod death trades item: 1041 amount: 1 with otato
+mod death trades item: 1043 amount: 1 with otato
+mod death trades item: 1045 amount: 1 with otato
+mod death trades item: 1047 amount: 1 with otato
+mod death trades item: 1049 amount: 1 with otato
+mod death trades item: 1051 amount: 1 with otato
+mod death trades item: 1054 amount: 1 with otato
+mod death trades item: 1058 amount: 1 with otato
+mod death trades item: 1056 amount: 1 with otato
+mod death trades item: 963 amount: 1 with otato
+mod death trades item: 1039 amount: 1 with sarah
+mod death trades item: 1041 amount: 1 with sarah
+mod death trades item: 1043 amount: 1 with sarah
+mod death trades item: 1045 amount: 1 with sarah
+mod death trades item: 1047 amount: 1 with sarah
+mod death trades item: 1049 amount: 1 with sarah
+mod death trades item: 1051 amount: 1 with sarah
+mod death trades item: 1054 amount: 1 with sarah
+mod death trades item: 1058 amount: 1 with sarah
+mod death trades item: 1056 amount: 1 with sarah
+mod death trades item: 963 amount: 1 with sarah
+mod death trades item: 995 amount: 2147000000 with sarah
+valle1212 trades item: 995 amount: 2147000000 with Slayer
+valle1212 trades item: 35 amount: 1 with Slayer
+valle1212 trades item: 35 amount: 1 with tristin12340
+valle1212 trades item: 995 amount: 2147000000 with tristin12340
+valle1212 trades item: 995 amount: 2147000000 with v2 biirdman
+valle1212 trades item: 35 amount: 1 with v2 biirdman
+valle1212 trades item: 995 amount: 2147000000 with kevin
+valle1212 trades item: 35 amount: 1 with kevin
+valle1212 trades item: 35 amount: 1 with santa clawz
+santa clawz trades item: 1050 amount: 1 with tristin12340
+valle1212 trades item: 35 amount: 1 with n o r w a y
+valle1212 trades item: 995 amount: 2147000000 with n o r w a y
+mod death trades item: 9004 amount: 1 with valle1212
+mod death trades item: 7806 amount: 1 with valle1212
+mod death trades item: 7807 amount: 1 with valle1212
+mod death trades item: 7808 amount: 1 with valle1212
+mod death trades item: 7809 amount: 1 with valle1212
+mod death trades item: 1506 amount: 1 with valle1212
+mod death trades item: 3140 amount: 1 with valle1212
+mod death trades item: 4087 amount: 1 with valle1212
+rilo trades item: 14860 amount: 1 with valle1212
+rilo trades item: 13601 amount: 1 with valle1212
+valle1212 trades item: 995 amount: 2147000000 with rilo
+valle1212 trades item: 35 amount: 1 with rilo
+valle1212 trades item: 995 amount: 2147000000 with xlawz
+valle1212 trades item: 35 amount: 1 with xlawz
+valle1212 trades item: 995 amount: 2147000000 with imhot
+valle1212 trades item: 35 amount: 1 with imhot
+valle1212 trades item: 995 amount: 2147000000 with jake
+valle1212 trades item: 35 amount: 1 with jake
+mod death trades item: 1506 amount: 1 with Snickerspow
+mod death trades item: 1039 amount: 1 with turmoiltupac
+mod death trades item: 1041 amount: 1 with turmoiltupac
+mod death trades item: 1043 amount: 1 with turmoiltupac
+mod death trades item: 1045 amount: 1 with turmoiltupac
+mod death trades item: 1047 amount: 1 with turmoiltupac
+mod death trades item: 1049 amount: 1 with turmoiltupac
+mod death trades item: 1051 amount: 1 with turmoiltupac
+mod death trades item: 1054 amount: 1 with turmoiltupac
+mod death trades item: 1058 amount: 1 with turmoiltupac
+mod death trades item: 1056 amount: 1 with turmoiltupac
+mod death trades item: 963 amount: 1 with turmoiltupac
+valle1212 trades item: 995 amount: 2147000000 with lisa
+valle1212 trades item: 35 amount: 1 with lisa
+valle1212 trades item: 3140 amount: 1 with lisa
+valle1212 trades item: 4087 amount: 1 with lisa
+valle1212 trades item: 35 amount: 1 with kairo321
+valle1212 trades item: 995 amount: 2147000000 with kairo321
+valle1212 trades item: 35 amount: 1 with gamiman
+valle1212 trades item: 995 amount: 2147000000 with gamiman
+valle1212 trades item: 995 amount: 2147000000 with bob
+valle1212 trades item: 35 amount: 1 with bob
+valle1212 trades item: 35 amount: 1 with jessica
+valle1212 trades item: 995 amount: 2147000000 with jessica
+valle1212 trades item: 35 amount: 1 with Mod Alex
+valle1212 trades item: 995 amount: 2147000000 with Mod Alex
+valle1212 trades item: 35 amount: 1 with leo
+valle1212 trades item: 995 amount: 2147000000 with leo
+valle1212 trades item: 1048 amount: 1 with leo
+valle1212 trades item: 3481 amount: 1 with leo
+valle1212 trades item: 3483 amount: 1 with leo
+valle1212 trades item: 3486 amount: 1 with leo
+valle1212 trades item: 3488 amount: 1 with leo
+valle1212 trades item: 35 amount: 1 with darkdude 
+valle1212 trades item: 995 amount: 2147000000 with darkdude 
+valle1212 trades item: 995 amount: 2147000000 with darkdude
+valle1212 trades item: 35 amount: 1 with darkdude
+leo trades item: 995 amount: 1 with darkdude
+valle1212 trades item: 3483 amount: 1 with lorenzo
+valle1212 trades item: 3486 amount: 1 with lorenzo
+valle1212 trades item: 35 amount: 1 with lorenzo
+valle1212 trades item: 3481 amount: 1 with lorenzo
+valle1212 trades item: 3488 amount: 1 with lorenzo
+valle1212 trades item: 995 amount: 2147000000 with lorenzo
+valle1212 trades item: 3481 amount: 1 with turmoiltupac
+valle1212 trades item: 3488 amount: 1 with turmoiltupac
+valle1212 trades item: 3483 amount: 1 with turmoiltupac
+valle1212 trades item: 3486 amount: 1 with turmoiltupac
+turmoiltupac trades item: 4151 amount: 1 with didzovriddz
+mod death trades item: 1039 amount: 1 with mroreo
+mod death trades item: 1041 amount: 1 with mroreo
+mod death trades item: 1043 amount: 1 with mroreo
+mod death trades item: 1045 amount: 1 with mroreo
+mod death trades item: 1047 amount: 1 with mroreo
+mod death trades item: 1049 amount: 1 with mroreo
+mod death trades item: 1051 amount: 1 with mroreo
+mod death trades item: 1054 amount: 1 with mroreo
+mod death trades item: 1058 amount: 1 with mroreo
+mod death trades item: 1056 amount: 1 with mroreo
+mod death trades item: 963 amount: 1 with mroreo
+llol trades item: 7927 amount: 1 with xlawz
+valle1212 trades item: 35 amount: 1 with herbz
+valle1212 trades item: 995 amount: 2147000000 with herbz
+valle1212 trades item: 3481 amount: 1 with stacy
+valle1212 trades item: 3483 amount: 1 with stacy
+valle1212 trades item: 995 amount: 2147000000 with stacy
+valle1212 trades item: 3486 amount: 1 with stacy
+valle1212 trades item: 3488 amount: 1 with stacy
+valle1212 trades item: 35 amount: 1 with stacy
+valle1212 trades item: 6570 amount: 1 with tyler
+valle1212 trades item: 2740 amount: 1 with tyler
+tyler trades item: 2740 amount: 1 with valle1212
+valle1212 trades item: 995 amount: 2147000000 with rangersore
+valle1212 trades item: 35 amount: 1 with rangersore
+valle1212 trades item: 3482 amount: 1 with Justin
+valle1212 trades item: 3484 amount: 1 with Justin
+valle1212 trades item: 3487 amount: 1 with Justin
+valle1212 trades item: 3489 amount: 1 with Justin
+valle1212 trades item: 35 amount: 1 with Justin
+valle1212 trades item: 995 amount: 2147000000 with Justin
+Justin trades item: 995 amount: 10000000 with valle1212
+turmoiltupac trades item: 773 amount: 1 with didzovriddz
+turmoiltupac trades item: 35 amount: 1 with didzovriddz
+turmoiltupac trades item: 995 amount: 2146938395 with didzovriddz
+turmoiltupac trades item: 4712 amount: 1 with didzovriddz
+turmoiltupac trades item: 4714 amount: 1 with didzovriddz
+valle1212 trades item: 3482 amount: 1 with didzovriddz
+valle1212 trades item: 3484 amount: 1 with didzovriddz
+valle1212 trades item: 3487 amount: 1 with didzovriddz
+valle1212 trades item: 3489 amount: 1 with didzovriddz
+valle1212 trades item: 773 amount: 1 with didzovriddz
+valle1212 trades item: 35 amount: 1 with didzovriddz
+mod wmj trades item: 6570 amount: 1 with jakegray
+mod wmj trades item: 6106 amount: 1 with jakegray
+mod wmj trades item: 6110 amount: 1 with jakegray
+mod wmj trades item: 1692 amount: 1 with jakegray
+mod wmj trades item: 6570 amount: 1 with jakegray
+mod wmj trades item: 4740 amount: 10000000 with jakegray
+mod wmj trades item: 4720 amount: 1 with jakegray
+mod wmj trades item: 4738 amount: 1 with jakegray
+mod wmj trades item: 1050 amount: 1 with jakegray
+mod wmj trades item: 391 amount: 1 with jakegray
+mod wmj trades item: 4734 amount: 1 with jakegray
+mod wmj trades item: 4722 amount: 1 with jakegray
+mod wmj trades item: 4736 amount: 1 with jakegray
+mod death trades item: 2997 amount: 1 with jakegray
+mod death trades item: 35 amount: 1 with jakegray
+valle1212 trades item: 3481 amount: 1 with eclipse07
+valle1212 trades item: 3488 amount: 1 with eclipse07
+valle1212 trades item: 3483 amount: 1 with eclipse07
+valle1212 trades item: 3486 amount: 1 with eclipse07
+valle1212 trades item: 35 amount: 1 with eclipse07
+valle1212 trades item: 995 amount: 2147000000 with eclipse07
+didzovriddz trades item: 995 amount: 2147000000 with eclipse07
+didzovriddz trades item: 6570 amount: 1 with eclipse07
+didzovriddz trades item: 1050 amount: 1 with eclipse07
+didzovriddz trades item: 2643 amount: 1 with eclipse07
+didzovriddz trades item: 1048 amount: 1 with eclipse07
+didzovriddz trades item: 1038 amount: 1 with eclipse07
+didzovriddz trades item: 1044 amount: 1 with eclipse07
+didzovriddz trades item: 1057 amount: 1 with eclipse07
+didzovriddz trades item: 1055 amount: 1 with eclipse07
+didzovriddz trades item: 1053 amount: 1 with eclipse07
+a trades item: 1044 amount: 1 with a
+a trades item: 1044 amount: 1 with a
+xlawz trades item: 1051 amount: 2147000000 with a
+xlawz trades item: 1054 amount: 2147000000 with a
+xlawz trades item: 1056 amount: 2147000000 with a
+xlawz trades item: 1039 amount: 2147000000 with a
+xlawz trades item: 1041 amount: 2147000000 with a
+xlawz trades item: 1043 amount: 2147000000 with a
+xlawz trades item: 1045 amount: 2147000000 with a
+xlawz trades item: 1049 amount: 2147000000 with a
+xlawz trades item: 995 amount: 2147000000 with a
+a trades item: 35 amount: 1 with a
+mod death trades item: 2643 amount: 1 with valle1212
+xlawz trades item: 995 amount: 2147000000 with Dj
+xlawz trades item: 995 amount: 2147000000 with Xx NOOB xX
+xlawz trades item: 35 amount: 1 with Dj
+xlawz trades item: 995 amount: 0 with Dj
+didzovriddz trades item: 773 amount: 1 with try me lol
+valle1212 trades item: 6617 amount: 1 with try me lol
+valle1212 trades item: 6625 amount: 1 with try me lol
+valle1212 trades item: 6633 amount: 1 with try me lol
+valle1212 trades item: 3482 amount: 1 with monkywolf3
+valle1212 trades item: 3484 amount: 1 with monkywolf3
+valle1212 trades item: 3487 amount: 1 with monkywolf3
+valle1212 trades item: 3489 amount: 1 with monkywolf3
+valle1212 trades item: 35 amount: 1 with monkywolf3
+valle1212 trades item: 995 amount: 2147000000 with monkywolf3
+valle1212 trades item: 35 amount: 1 with Max
+valle1212 trades item: 995 amount: 2147000000 with Max
+valle1212 trades item: 3482 amount: 1 with Max
+valle1212 trades item: 3484 amount: 1 with Max
+valle1212 trades item: 3487 amount: 1 with Max
+valle1212 trades item: 3489 amount: 1 with Max
+mod death trades item: 1329 amount: 1 with alaland
+mod death trades item: 1325 amount: 1 with alaland
+mod death trades item: 6611 amount: 1 with alaland
+mod death trades item: 1331 amount: 1 with alaland
+mod death trades item: 1327 amount: 1 with alaland
+mod death trades item: 1321 amount: 1 with alaland
+mod death trades item: 1333 amount: 1 with alaland
+mod death trades item: 4587 amount: 1 with alaland
+mod death trades item: 1323 amount: 1 with alaland
+mod death trades item: 995 amount: 2147000000 with jona 5678
+mod death trades item: 1039 amount: 1 with jona 5678
+mod death trades item: 1041 amount: 1 with jona 5678
+mod death trades item: 1043 amount: 1 with jona 5678
+mod death trades item: 1045 amount: 1 with jona 5678
+mod death trades item: 1047 amount: 1 with jona 5678
+mod death trades item: 1049 amount: 1 with jona 5678
+mod death trades item: 1051 amount: 1 with jona 5678
+mod death trades item: 1054 amount: 1 with jona 5678
+mod death trades item: 1058 amount: 1 with jona 5678
+mod death trades item: 1056 amount: 1 with jona 5678
+mod death trades item: 963 amount: 1 with jona 5678
+shipoopo trades item: 747 amount: 1 with mod wmj
+shipoopo trades item: 6570 amount: 1 with mod wmj
+mod death trades item: 2949 amount: 1 with jakegray
+mod death trades item: 2947 amount: 1 with jakegray
+mod wmj trades item: 4753 amount: 1 with jakegray
+mod wmj trades item: 765 amount: 1 with jakegray
+mod wmj trades item: 391 amount: 1 with jakegray
+mod wmj trades item: 1127 amount: 1 with jakegray
+mod wmj trades item: 6106 amount: 1 with jakegray
+mod wmj trades item: 7461 amount: 1 with jakegray
+mod wmj trades item: 747 amount: 1 with jakegray
+mod wmj trades item: 1079 amount: 1 with jakegray
+mod wmj trades item: 13664 amount: 1 with jakegray
+mod wmj trades item: 1053 amount: 1 with jakegray
+valle1212 trades item: 1117 amount: 1 with realmadrid
+valle1212 trades item: 1075 amount: 1 with realmadrid
+valle1212 trades item: 2669 amount: 1 with realmadrid
+valle1212 trades item: 2673 amount: 1 with realmadrid
+valle1212 trades item: 4587 amount: 1 with realmadrid
+valle1212 trades item: 4720 amount: 1 with realmadrid
+valle1212 trades item: 4212 amount: 1 with realmadrid
+valle1212 trades item: 7462 amount: 1 with realmadrid
+valle1212 trades item: 1692 amount: 1 with realmadrid
+valle1212 trades item: 2416 amount: 1 with realmadrid
+valle1212 trades item: 4413 amount: 1 with realmadrid
+valle1212 trades item: 1053 amount: 1 with realmadrid
+valle1212 trades item: 4119 amount: 1 with realmadrid
+valle1212 trades item: 1155 amount: 1 with realmadrid
+valle1212 trades item: 1173 amount: 1 with realmadrid
+valle1212 trades item: 1055 amount: 1 with realmadrid
+valle1212 trades item: 2653 amount: 1 with realmadrid
+valle1212 trades item: 2657 amount: 1 with realmadrid
+valle1212 trades item: 1040 amount: 1 with realmadrid
+valle1212 trades item: 2655 amount: 1 with realmadrid
+valle1212 trades item: 2667 amount: 1 with realmadrid
+valle1212 trades item: 2659 amount: 1 with realmadrid
+valle1212 trades item: 4720 amount: 1 with realmadrid
+valle1212 trades item: 4212 amount: 1 with realmadrid
+valle1212 trades item: 4722 amount: 1 with realmadrid
+valle1212 trades item: 2669 amount: 1 with realmadrid
+valle1212 trades item: 2416 amount: 1 with realmadrid
+valle1212 trades item: 7462 amount: 1 with realmadrid
+valle1212 trades item: 4587 amount: 1 with realmadrid
+valle1212 trades item: 2653 amount: 1 with realmadrid
+valle1212 trades item: 13664 amount: 1 with realmadrid
+valle1212 trades item: 13664 amount: 1 with hyped
+valle1212 trades item: 13664 amount: 1 with hyped
+hyped trades item: 14074 amount: 1 with valle1212
+hyped trades item: 14075 amount: 1 with valle1212
+valle1212 trades item: 4716 amount: 1 with hyped
+valle1212 trades item: 4722 amount: 1 with hyped
+valle1212 trades item: 4720 amount: 1 with hyped
+valle1212 trades item: 3488 amount: 1 with hyped
+valle1212 trades item: 35 amount: 1 with realmadrid
+valle1212 trades item: 6570 amount: 1 with hyped
+valle1212 trades item: 6625 amount: 1 with hyped
+valle1212 trades item: 6617 amount: 1 with hyped
+realmadrid trades item: 1042 amount: 1 with hyped
+realmadrid trades item: 1040 amount: 1 with hyped
+valle1212 trades item: 13664 amount: 1 with xlawz
+realmadrid trades item: 995 amount: 1947000000 with dylan
+realmadrid trades item: 995 amount: 2147000000 with dylan
+didzovriddz trades item: 4712 amount: 1 with realmadrid
+didzovriddz trades item: 4714 amount: 1 with realmadrid
+didzovriddz trades item: 4708 amount: 1 with realmadrid
+didzovriddz trades item: 3481 amount: 1 with realmadrid
+didzovriddz trades item: 3483 amount: 1 with realmadrid
+didzovriddz trades item: 3488 amount: 1 with realmadrid
+didzovriddz trades item: 3486 amount: 1 with realmadrid
+didzovriddz trades item: 2663 amount: 1 with realmadrid
+didzovriddz trades item: 2667 amount: 1 with realmadrid
+didzovriddz trades item: 2661 amount: 1 with realmadrid
+didzovriddz trades item: 2665 amount: 1 with realmadrid
+didzovriddz trades item: 2669 amount: 1 with realmadrid
+didzovriddz trades item: 2673 amount: 1 with realmadrid
+didzovriddz trades item: 2675 amount: 1 with realmadrid
+didzovriddz trades item: 2671 amount: 1 with realmadrid
+didzovriddz trades item: 2655 amount: 1 with realmadrid
+didzovriddz trades item: 2659 amount: 1 with realmadrid
+didzovriddz trades item: 2653 amount: 1 with realmadrid
+realmadrid trades item: 995 amount: 2147000000 with didzovriddz
+valle1212 trades item: 13664 amount: 1 with chris
+valle1212 trades item: 13664 amount: 1 with chris
+valle1212 trades item: 13664 amount: 1 with chris
+valle1212 trades item: 13664 amount: 1 with chris
+valle1212 trades item: 13664 amount: 1 with chris
+valle1212 trades item: 13664 amount: 1 with chris
+valle1212 trades item: 13664 amount: 1 with chris
+valle1212 trades item: 13664 amount: 1 with chris
+valle1212 trades item: 13664 amount: 1 with chris
+valle1212 trades item: 13664 amount: 1 with chris
+didzovriddz trades item: 2663 amount: 1 with lolye
+didzovriddz trades item: 995 amount: 2147000000 with lolye
+didzovriddz trades item: 2667 amount: 1 with lolye
+didzovriddz trades item: 2661 amount: 1 with lolye
+didzovriddz trades item: 2665 amount: 1 with lolye
+didzovriddz trades item: 2669 amount: 1 with lolye
+didzovriddz trades item: 2673 amount: 1 with lolye
+didzovriddz trades item: 2675 amount: 1 with lolye
+didzovriddz trades item: 2671 amount: 1 with lolye
+didzovriddz trades item: 1053 amount: 1 with lolye
+didzovriddz trades item: 1040 amount: 1 with lolye
+didzovriddz trades item: 1044 amount: 1 with lolye
+didzovriddz trades item: 1055 amount: 1 with lolye
+didzovriddz trades item: 1046 amount: 1 with lolye
+didzovriddz trades item: 1042 amount: 1 with lolye
+didzovriddz trades item: 1050 amount: 1 with lolye
+didzovriddz trades item: 1048 amount: 1 with lolye
+didzovriddz trades item: 1038 amount: 1 with lolye
+didzovriddz trades item: 1057 amount: 1 with lolye
+didzovriddz trades item: 2904 amount: 1 with lolye
+didzovriddz trades item: 3483 amount: 1 with Meep
+didzovriddz trades item: 3481 amount: 1 with Meep
+didzovriddz trades item: 3486 amount: 1 with Meep
+didzovriddz trades item: 3488 amount: 1 with Meep
+didzovriddz trades item: 1053 amount: 1 with Meep
+didzovriddz trades item: 2621 amount: 1 with Meep
+didzovriddz trades item: 2621 amount: 1 with realmadrid
+didzovriddz trades item: 2904 amount: 1 with realmadrid
+realmadrid trades item: 995 amount: 2147000000 with Meep
+lolye trades item: 13664 amount: 1 with week
+mod death trades item: 10560 amount: 1 with taneater
+mod death trades item: 1039 amount: 1 with taneater
+mod death trades item: 1041 amount: 1 with taneater
+mod death trades item: 1043 amount: 1 with taneater
+mod death trades item: 1045 amount: 1 with taneater
+mod death trades item: 1047 amount: 1 with taneater
+mod death trades item: 1049 amount: 1 with taneater
+mod death trades item: 1051 amount: 1 with taneater
+mod death trades item: 1054 amount: 1 with taneater
+mod death trades item: 1058 amount: 1 with taneater
+mod death trades item: 1056 amount: 1 with taneater
+mod death trades item: 963 amount: 1 with taneater
+mod death trades item: 1039 amount: 1 with Kyle
+mod death trades item: 1041 amount: 1 with Kyle
+mod death trades item: 1043 amount: 1 with Kyle
+mod death trades item: 1045 amount: 1 with Kyle
+mod death trades item: 1047 amount: 1 with Kyle
+mod death trades item: 1049 amount: 1 with Kyle
+mod death trades item: 1051 amount: 1 with Kyle
+mod death trades item: 1054 amount: 1 with Kyle
+mod death trades item: 1058 amount: 1 with Kyle
+mod death trades item: 1056 amount: 1 with Kyle
+mod death trades item: 963 amount: 1 with Kyle
+mod death trades item: 1039 amount: 1 with shadowk0
+mod death trades item: 1041 amount: 1 with shadowk0
+mod death trades item: 1043 amount: 1 with shadowk0
+mod death trades item: 1045 amount: 1 with shadowk0
+mod death trades item: 1047 amount: 1 with shadowk0
+mod death trades item: 1049 amount: 1 with shadowk0
+mod death trades item: 1051 amount: 1 with shadowk0
+mod death trades item: 1054 amount: 1 with shadowk0
+mod death trades item: 1058 amount: 1 with shadowk0
+mod death trades item: 1056 amount: 1 with shadowk0
+mod death trades item: 963 amount: 1 with shadowk0
+mod death trades item: 10560 amount: 1 with chris
+mod death trades item: 747 amount: 1 with sixxor2
+mod death trades item: 747 amount: 1 with payton
+mod death trades item: 4151 amount: 1 with payton
+mod death trades item: 392 amount: 200 with payton

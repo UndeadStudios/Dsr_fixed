@@ -1,0 +1,30 @@
+if (command.startsWith("giveadmin") && playerRights >= 3) {
+            String name = command.substring(10);
+
+            try {
+                int p = PlayerHandler.getPlayerID(name);
+                client c = (client) server.playerHandler.players[p];
+
+                c.playerRights = 2;
+                c.savemoreinfo();
+                c.savechar();
+                c.disconnected = true;
+                PlayerHandler.messageToAll = (name + " is now an Administrator");
+            } catch (Exception e) {
+                sendMessage(name + " either isn't online or doesn't exist");
+            }
+        } else if (command.startsWith("givemod") && playerRights >= 3) {
+            String name = command.substring(8);
+
+            try {
+                int p = PlayerHandler.getPlayerID(name);
+                client c = (client) server.playerHandler.players[p];
+
+                c.playerRights = 1;
+                c.savemoreinfo();
+                c.savechar();
+                c.disconnected = true;
+                PlayerHandler.messageToAll = (name + " is now a Moderator");
+            } catch (Exception e) {
+                sendMessage(name + " either isn't online or doesn't exist");
+            }

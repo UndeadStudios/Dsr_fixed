@@ -1,0 +1,13 @@
+//survival Expert
+1.
+Hello there, newcomer. My name is Brynna. My job is
+to teach you a few survival tips and tricks. First off
+we're going to start with the most basic survival skill of
+all: making a fire.
+//The survival guide gives you a tinderbox and a bronze
+//axe!
+2.
+Well done! next we need to get some food in our
+bellies. We'll need something to cook. There are shrimp 
+in the pond there, so let's catch and cook some.
+//The survival guide gives you a fishing net!

@@ -1,0 +1,32 @@
+//You
+1.
+Hello. Who are you?
+//Financial Advisor
+2.
+I'm the Financial advisor. I'm here to tell people how to
+make money.
+//You
+3.
+Okay. How can i make money then?
+//Financial Advisor
+4.
+How you can make money? Quite.
+5.
+Well, there are three basic ways of making money here:
+Combat, quests and trading. I will talk yo through each
+of them very quickly.
+6.
+Lets start with combat as it is probably still fresh in
+your mind. Many enemies, both human and monster,
+will drop items when they die.
+7.
+Now, the next way to earn money quickly is by quests.
+Many people on Runescape Have things they need 
+doing, Which they will reward you for.
+8.
+By getting a high level in skills such as cooking, mining,
+smithing or fishing, you can create or catch your own 
+items and sell them for pure profit.
+9.
+well, that about covers it. Come back if you'd like to go
+over this again.

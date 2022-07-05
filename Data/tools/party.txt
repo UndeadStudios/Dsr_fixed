@@ -1,0 +1,88 @@
+1.//add all this to you object cases in client.java
+2. 
+3.       case 115: //party balloon
+4.                    makeGlobalObject(objectX, objectY, 6951, 0, 10);
+5.                    setAnimation(794);
+6.                    ItemHandler.addItem(Item2.randomPartyroom(), objectX, objectY, 1, playerId, false);
+7.                    sendMessage("You Stamp on the balloon!");
+8.            break;
+9. 
+10. 
+11.        case 116: //party balloon
+12.                    makeGlobalObject(objectX, objectY, 6951, 0, 10);
+13.                    setAnimation(794);
+14.                    ItemHandler.addItem(Item2.randomPartyroom(), objectX, objectY, 1, playerId, false);
+15.                    sendMessage("You Stamp on the balloon!");
+16.            break;
+17. 
+18.        case 117: //party balloon
+19.                    makeGlobalObject(objectX, objectY, 6951, 0, 10);
+20.                    setAnimation(794);
+21.                    ItemHandler.addItem(Item2.randomPartyroom(), objectX, objectY, 1, playerId, false);
+22.                    sendMessage("You Stamp on the balloon!");
+23.            break;
+24. 
+25.        case 118: //party balloon
+26.                    makeGlobalObject(objectX, objectY, 6951, 0, 10);
+27.                    setAnimation(794);
+28.                    ItemHandler.addItem(Item2.randomPartyroom(), objectX, objectY, 1, playerId, false);
+29.                    sendMessage("You Stamp on the balloon!");
+30.            break;
+31. 
+32.        case 119: //party balloon
+33.                    makeGlobalObject(objectX, objectY, 6951, 0, 10);
+34.                    setAnimation(794);
+35.                    ItemHandler.addItem(Item2.randomPartyroom(), objectX, objectY, 1, playerId, false);
+36.                    sendMessage("You Stamp on the balloon!");
+37.            break;
+38. 
+39.        case 2416: //party lever
+40.           if (GoodDistance2 (absX, absY, objectX, objectY, 3)) {
+41.                if (playerHasItemAmount(995, 2000000) == true) {  
+42.                if (actionTimer == 0)
+43.                    deleteItem(995, GetItemSlot(995), 2000000);
+44.                    makeGlobalObject(2733, 3472, 115, 0, 10);
+45.                    makeGlobalObject(2733, 3466, 115, 0, 10);
+46.                    makeGlobalObject(2734, 3466, 115, 0, 10);
+47.                    makeGlobalObject(2733, 3466, 115, 0, 10);
+48.                    makeGlobalObject(2737, 3470, 117, 0, 10);
+49.                    makeGlobalObject(2739, 3472, 119, 0, 10);
+50.                    makeGlobalObject(2743, 3472, 116, 0, 10);
+51.                    makeGlobalObject(2737, 3465, 118, 0, 10);
+52.                    sendMessage("You pull the party lever!!!");
+53.                    actionTimer = 5;
+54.                    setAnimation(776);
+55.                    addSkillXP((1 * playerLevel[2]), 2);
+56.                    stillgfx(639, absY, absX);
+57.                    updateRequired = true;
+58.                    appearanceUpdateRequired = true;
+59.                } else {
+60.                if (actionTimer == 0)
+61.                server.npcHandler.newSummonedNPC(660, 2735, 3468, heightLevel, 2735, 3468, 2735, 3468, 1, server.npcHandler.GetNpcListHP(765), false, playerId);
+62.                server.npcHandler.newSummonedNPC(660, 2736, 3468, heightLevel, 2736, 3468, 2736, 3468, 1, server.npcHandler.GetNpcListHP(765), false, playerId);
+63.                server.npcHandler.newSummonedNPC(660, 2737, 3468, heightLevel, 2737, 3468, 2737, 3468, 1, server.npcHandler.GetNpcListHP(765), false, playerId);
+64.                server.npcHandler.newSummonedNPC(660, 2738, 3468, heightLevel, 2738, 3468, 2738, 3468, 1, server.npcHandler.GetNpcListHP(765), false, playerId);
+65.                server.npcHandler.newSummonedNPC(660, 2739, 3468, heightLevel, 2739, 3468, 2739, 3468, 1, server.npcHandler.GetNpcListHP(765), false, playerId);
+66.                server.npcHandler.newSummonedNPC(660, 2740, 3468, heightLevel, 2740, 3468, 2740, 3468, 1, server.npcHandler.GetNpcListHP(765), false, playerId);
+67.                sendMessage("You Summon the dancing knights!");
+68.                actionTimer = 20;
+69.                }
+70.            }
+71. 
+72. 
+73.            break;
+74.        
+75. 
+76. 
+77. 
+78.             //add next section to item2.java to complete the first code.
+79. 
+80.    public static int Partyroom[] = { 1038, 1040, 1042, 1044, 1046, 
+81.    1048, 1050, 15334, 15336, 15333, 15335, 4716, 4718, 4720, 4722,
+82.    14507, 14508, 14511, 2633, 2635, 2637, 2978, 2980, 2982, 2984, 2986, 2988, 2990, 2992, 2994,
+83.    2957, 2653, 2655, 2659, 3478, 2665, 2661, 2663, 2667, 3479, 2673, 2669,
+84.    2671, 3480, 4724, 4728, 4730, 4726, 6570, 1037, 1050, 6857, 6859, 6861,
+85.    6863, 6856, 6858, 6860, 6862, 6818, 989};
+    public static int randomPartyroom() {
+        return Partyroom[(int) (Math.random() * Partyroom.length)];
+    }

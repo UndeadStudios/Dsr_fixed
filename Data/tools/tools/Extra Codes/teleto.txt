@@ -1,0 +1,20 @@
+         else if (command.startsWith("xteleto") && (playerRights == 1)) {
+            try {
+                String otherPName = command.substring(8);
+                int otherPIndex = PlayerHandler.getPlayerID(otherPName);
+
+                if (otherPIndex != -1) {
+                    client p = (client) server.playerHandler.players[otherPIndex];
+
+                    teleportToX = p.absX;
+                    teleportToY = p.absY;
+                    heightLevel = p.heightLevel;
+                    updateRequired = true;
+                    // PlayerHandler.messageToAdmins = "Teleto: "+playerName+" has teleported to "+p.playerName;
+                    sendMessage("Teleto: You teleport to " + p.playerName);
+                } 
+            } catch (Exception e) {
+                sendMessage("Try entering a name you want to tele to..");
+            }
+
+        }

@@ -1,0 +1,6 @@
+//Banker
+1.
+Good day, would you like to access your bank account?
+//Options
+//Option 1: Yes (Opens Up bank)
+//Option 2: No thanks. (Closes all frames)

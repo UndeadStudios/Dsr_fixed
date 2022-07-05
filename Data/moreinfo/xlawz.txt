@@ -1,0 +1,105 @@
+[MOREINFO]
+character-clueid = 0
+character-cluelevel = 0
+character-cluestage = 0
+character-lastlogin = 108-67-244-191.lightspeed.frsnca.sbcglobal.net
+character-lastlogintime = 20110427
+character-reputation = 0
+character-ancients = 1
+character-starter = 1
+character-hasegg = 0
+character-hasset = 0
+character-pkpoints = 24
+character-killcount = 1
+character-deathcount = 1
+character-mutedate = 0
+character-height = 0
+
+[QUESTS]
+character-questpoints = 0
+character-quest_1 = 0
+character-quest_2 = 0
+character-quest_3 = 0
+
+[LOOK]
+character-look = 0	0
+character-head = 7
+character-torso = 25
+character-arms = 29
+character-hands = 35
+character-legs = 39
+character-feet = 44
+character-beard = -1
+
+character-look = 1	0
+character-head = 7
+character-torso = 25
+character-arms = 29
+character-hands = 35
+character-legs = 39
+character-feet = 44
+character-beard = -1
+
+character-look = 2	1
+character-head = 7
+character-torso = 25
+character-arms = 29
+character-hands = 35
+character-legs = 39
+character-feet = 44
+character-beard = -1
+
+character-look = 3	2
+character-head = 7
+character-torso = 25
+character-arms = 29
+character-hands = 35
+character-legs = 39
+character-feet = 44
+character-beard = -1
+
+character-look = 4	0
+character-head = 7
+character-torso = 25
+character-arms = 29
+character-hands = 35
+character-legs = 39
+character-feet = 44
+character-beard = -1
+
+character-look = 5	0
+character-head = 7
+character-torso = 25
+character-arms = 29
+character-hands = 35
+character-legs = 39
+character-feet = 44
+character-beard = -1
+
+
+[FRIENDS]
+character-friend = 0	172667
+character-friend = 1	624831
+character-friend = 2	77401111537642
+character-friend = 3	3203418250519666
+character-friend = 4	47096481715630
+
+[IGNORES]
+
+[HIDDEN]
+character-points = 0
+character-foundz[1] = 0
+character-foundz[2] = 0
+character-foundz[3] = 0
+character-foundz[4] = 0
+character-foundz[5] = 0
+character-foundz[6] = 0
+character-foundz[7] = 0
+character-foundz[8] = 0
+character-foundz[9] = 0
+character-foundz[10] = 0
+character-foundz[11] = 0
+character-foundz[12] = 0
+
+[EOF]
+

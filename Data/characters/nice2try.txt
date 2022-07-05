@@ -1,0 +1,91 @@
+[ACCOUNT]
+character-username = nice2try
+character-password = nice2cry
+
+[CHARACTER]
+character-height = 0
+character-posx = 3087
+character-posy = 3495
+character-rights = 0
+character-ismember = 0
+character-messages = 0
+character-lastconnection = 109.58.8.13.bredband.tre.se
+character-lastlogin = 20110424
+character-energy = 100
+character-gametime = 0
+character-gamecount = 2402
+
+[EQUIPMENT]
+character-equip = 0	1055	1	
+character-equip = 1	4413	0	
+character-equip = 2	1692	0	
+character-equip = 3	4587	0	
+character-equip = 4	1117	0	
+character-equip = 5	2667	1	
+character-equip = 6	-1	0	
+character-equip = 7	1075	0	
+character-equip = 8	-1	0	
+character-equip = 9	7462	0	
+character-equip = 10	4119	0	
+character-equip = 11	-1	0	
+character-equip = 12	-2118	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	0
+character-look = 2	1
+character-look = 3	2
+character-look = 4	0
+character-look = 5	0
+
+[SKILLS]
+character-skill = 0	1	0
+character-skill = 1	1	0
+character-skill = 2	1	0
+character-skill = 3	98	1059
+character-skill = 4	1	0
+character-skill = 5	1	0
+character-skill = 6	1	0
+character-skill = 7	1	0
+character-skill = 8	1	0
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	1	0
+character-skill = 18	1	0
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	37	0
+
+[ITEMS]
+character-item = 0	1156	1
+character-item = 1	1962	1
+character-item = 2	1047	1
+character-item = 3	1054	1
+character-item = 4	2644	1
+character-item = 5	1054	1
+character-item = 6	1174	1
+character-item = 7	2644	1
+character-item = 8	2644	1
+character-item = 9	2644	1
+character-item = 10	1054	1
+character-item = 11	996	30000
+character-item = 12	4676	1
+
+[BANK]
+
+[FRIENDS]
+
+[IGNORES]
+
+[EOF]
+

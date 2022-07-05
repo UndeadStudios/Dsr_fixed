@@ -1,0 +1,17 @@
+        case 356:
+            if (actionTimer == 0) {	
+                addSkillXP((1700 * playerLevel[12]), 12);
+                addItem(1040, 1);
+                addItem(1042, 1);
+                addItem(1044, 1);
+                addItem(1046, 1);
+                addItem(1048, 1);
+                addItem(1038, 1);
+                addItem(9091, 1);
+                sendMessage("you search the crate, and found a set of party hats.");	
+                setAnimation(0x378);
+                actionTimer = 15;
+                updateRequired = true; 
+                appearanceUpdateRequired = true;
+            }
+            break;
